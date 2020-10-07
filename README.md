@@ -1,24 +1,6 @@
 # Customer_segmentation
 Machine Learning project
 CUSTOMER SEGMENTATION
-<html>
-
-   <head>
-      <title>Using Image in Webpage</title>
-   </head>
-	
-   <body>
-      <p>Simple Image Insert</p>
-      <img src = "C:\Users\DEll\OneDrive\Pictures\Camera Roll\fam.jpg  " alt = "Test Image" />
-   </body>
-	
-</html>
-
-
-
-
-
-
 
 
 Imagine that you are treating the grocery shop owner that you shop every day, as you treat your significant other. That can be fun at the beginning, however may cause disastrous situations too. Likewise, it can be unfavorable for a company to manage its relationships with every customer similarly.
