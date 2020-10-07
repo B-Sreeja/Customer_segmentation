@@ -55,4 +55,5 @@ Although we have seen a large influx of supervised machine learning techniques b
 This article will guide you through the ins and outs of clustering customers. Note that I will not only show you which sklearn package you can use but more importantly, how they can be used and what to look out for.
 As always, the data is relatively straightforward and you can follow along with the notebook here. It contains customer information from a Telecom company and is typically used to predict churn:
 
-[You can look into my blog from the below link for more details:]{https://medium.com/@bsreeja.cse/customer-segmentation-6b8f08317059}
+You can look into my blog from the below link for more details:
+{https://medium.com/@bsreeja.cse/customer-segmentation-6b8f08317059}
