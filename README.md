@@ -1,6 +1,6 @@
 # Customer_segmentation
 Machine Learning project
-CUSTOMER SEGMENTATION
+# CUSTOMER SEGMENTATION
 
 
 Imagine that you are treating the grocery shop owner that you shop every day, as you treat your significant other. That can be fun at the beginning, however may cause disastrous situations too. Likewise, it can be unfavorable for a company to manage its relationships with every customer similarly.
@@ -10,14 +10,16 @@ Targeted marketing activities to specific groups
 Launch of features aligning with the customer demand
 Development of the product roadmap
 There are different products/solutions available in the market from packaged software to CRM products. Today, I will apply an unsupervised machine learning algorithm with Python.
-Project idea — Customer segmentation is a technique in which we divide the customers based on their purchase history, gender, age, interest, etc. It is useful to get this information so that the store can get help in personalize marketing and provide customers with relevant deals. With the help of this project, companies can run user-specific campaigns and provide user-specific offers rather than broadcasting same offer to all the users.
+# Project idea — 
+Customer segmentation is a technique in which we divide the customers based on their purchase history, gender, age, interest, etc. It is useful to get this information so that the store can get help in personalize marketing and provide customers with relevant deals. With the help of this project, companies can run user-specific campaigns and provide user-specific offers rather than broadcasting same offer to all the users.
 Introduction
 Customer segmentation is the practice of dividing a customer base into groups of individuals that are similar in specific ways relevant to marketing, such as age, gender, interests and spending habits.
 Companies employing customer segmentation operate under the fact that every customer is different and that their marketing efforts would be better served if they target specific, smaller groups with messages that those consumers would find relevant and lead them to buy something. Companies also hope to gain a deeper understanding of their customers’ preferences and needs with the idea of discovering what each segment finds most valuable to more accurately tailor marketing materials toward that segment.
 Customer segmentation relies on identifying key differentiators that divide customers into groups that can be targeted. Information such as a customers’ demographics (age, race, religion, gender, family size, ethnicity, income, education level), geography (where they live and work), psychographic (social class, lifestyle and personality characteristics) and behavioral (spending, consumption, usage and desired benefits) tendencies are taken into account when determining customer segmentation practices.
-Image for post
-Benefits of customer segmentation include:
-Personalization
+
+# Benefits of customer segmentation include:
+
+1.Personalization
 Personalization ensures that you provide exceptional customer experience.
 2. Customer Retention
 It is 16 times as costly to build a long-term business relationship with a new customer than simply to cultivate the loyalty of an existing customer.
@@ -25,15 +27,18 @@ It is 16 times as costly to build a long-term business relationship with a new c
 Affirmations that right marketing messages are sent to the right people based on their life cycle stage.
 4. Reveal new opportunities
 Customer segmentation may reveal new trends about products and it may even give the first mover’s advantage in a product segment.
-Approach — Machine Learning
+
+# Approach — Machine Learning
 Unsupervised Learning is a class of Machine Learning techniques to find the patterns in data. The data given to unsupervised algorithm are not labelled, which means only the input variables(X) are given with no corresponding output variables. In unsupervised learning, the algorithms are left to themselves to discover interesting structures in the data.
 There are some analytics techniques that can help you with segmenting your customers. These are useful especially when you have a large number of customers and it’s hard to discover patterns in your customer data just by looking at transactions. The two most common ones are:
-Clustering
+
+# Clustering
 Clustering is an exploration technique for datasets where relationships between different observations may be too hard to spot with the eye.
 2. Principal Component Analysis (PCA)
 PCA is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables (entities each of which takes on various numerical values) into a set of values of linearly uncorrelated variables called principal components.
 The following code takes advantage of the Mall Customer Segmentation Data to demonstrate the ability of K-Means clustering algorithm to identify customer’s segments.
-K-Means
+
+# K-Means
 K-means clustering is an unsupervised machine learning algorithm for clustering ’n’ observations into ‘k’ clusters where k is predefined or user-defined constant. The main idea is to define k centroids, one for each cluster.
 The K-Means algorithm involves:
 Choosing the number of clusters “k”.
