@@ -54,3 +54,4 @@ Exploring methods for cluster analysis, visualizing clusters through dimensional
 Although we have seen a large influx of supervised machine learning techniques being used in organizations these methods suffer from, typically, one large issue; a need for labeled data. Fortunately, many unsupervised methods exist for clustering data into previously unseen groups, thereby extracting new insights from your clientele.
 This article will guide you through the ins and outs of clustering customers. Note that I will not only show you which sklearn package you can use but more importantly, how they can be used and what to look out for.
 As always, the data is relatively straightforward and you can follow along with the notebook here. It contains customer information from a Telecom company and is typically used to predict churn:
+
