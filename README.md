@@ -1,8 +1,6 @@
 # CUSTOMER SEGMENTATION
 Machine Learning project
 
-
-
 Imagine that you are treating the grocery shop owner that you shop every day, as you treat your significant other. That can be fun at the beginning, however may cause disastrous situations too. Likewise, it can be unfavorable for a company to manage its relationships with every customer similarly.
 Customer segmentation enables a company to customize its relationships with the customers, as we do in our daily lives.
 When you perform customer segmentation, you find similar characteristics in each customer’s behavior and needs. Then, those are generalized into groups to satisfy demands with various strategies. Moreover, those strategies can be an input of the
