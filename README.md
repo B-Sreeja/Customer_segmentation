@@ -8,7 +8,7 @@ Targeted marketing activities to specific groups
 Launch of features aligning with the customer demand
 Development of the product roadmap
 There are different products/solutions available in the market from packaged software to CRM products. Today, I will apply an unsupervised machine learning algorithm with Python.
-# Project idea — 
+# Project idea 
 Customer segmentation is a technique in which we divide the customers based on their purchase history, gender, age, interest, etc. It is useful to get this information so that the store can get help in personalize marketing and provide customers with relevant deals. With the help of this project, companies can run user-specific campaigns and provide user-specific offers rather than broadcasting same offer to all the users.
 Introduction
 Customer segmentation is the practice of dividing a customer base into groups of individuals that are similar in specific ways relevant to marketing, such as age, gender, interests and spending habits.
@@ -53,4 +53,4 @@ Although we have seen a large influx of supervised machine learning techniques b
 This article will guide you through the ins and outs of clustering customers. Note that I will not only show you which sklearn package you can use but more importantly, how they can be used and what to look out for.
 As always, the data is relatively straightforward and you can follow along with the notebook here. It contains customer information from a Telecom company and is typically used to predict churn
 
-[Click here to look into my blog for more details](https://medium.com/@bsreeja.cse/customer-segmentation-6b8f08317059)
+[Click here] to look into my blog for more details(https://medium.com/@bsreeja.cse/customer-segmentation-6b8f08317059)
